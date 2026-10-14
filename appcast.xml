@@ -11,14 +11,5 @@
       <description><![CDATA[<ul><li>EarShare is now credited as &quot;A product of Taurus Labs&quot;.</li></ul>]]></description>
       <enclosure url="https://github.com/tauruslabsofficial-tech/EarShare-releases/releases/download/v1.1.1/EarShare.zip" type="application/octet-stream" sparkle:edSignature="83Zyk/kc4sqYv6IMc2sgj2E3o6WztZx5RQ6AjW1/4xgHCImrf2uTOmWYaJaEo+Uq8YmqBQfduLh65SIA5E6ACw==" length="2243902"/>
     </item>
-    <item>
-      <title>Version 1.1.0</title>
-      <pubDate>Wed, 14 Oct 2026 20:45:20 GMT</pubDate>
-      <sparkle:version>2</sparkle:version>
-      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>New name: TogetherAudio is now EarShare.</li><li>Redesigned to feel at home on your Mac, with Liquid Glass on macOS 26.</li><li>New Bluetooth headphones are selected automatically.</li><li>A switch in the menu bar starts sharing in one click.</li><li>EarShare now updates itself, and checks for new versions once a day.</li></ul>]]></description>
-      <enclosure url="https://github.com/tauruslabsofficial-tech/EarShare-releases/releases/download/v1.1.0/EarShare.zip" type="application/octet-stream" sparkle:edSignature="SUjKOFSpizYVjNyAM/4U9q22LtymCv8/LWM1eQ1JjadbE7M12am49l75+K9MXEGwccP/XypIn6rEleDvUG/SAg==" length="2243882"/>
-    </item>
   </channel>
 </rss>
