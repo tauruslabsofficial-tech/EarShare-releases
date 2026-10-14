@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/price-free-brightgreen" alt="Free">
 </p>
 
-<p align="center"><sub>An initiative by Taurus Labs</sub></p>
+<p align="center"><sub>A product of Taurus Labs</sub></p>
 
 ---
 
